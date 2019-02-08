@@ -1,3 +1,3 @@
-Asset Dyussenbayev
-@informasik
-seminar1
+#Asset Dyussenbayev
+#@informasik
+#seminar1
